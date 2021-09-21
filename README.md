@@ -1,6 +1,5 @@
 # GetSafariPasswords
-Applescript named GetSafariPasswords. You can copy it to your system to use. You can open and examine it with Script Editor.
-Once I've worked out any kinks, I'll incorporate it into the AppleScript_Conversion_Helper. But for now, here are your steps:
+Steps:
 		Open the script with Script Editor
 		Launch Safari
 		Open Safari's preferences and navigate to the Passwords tab
